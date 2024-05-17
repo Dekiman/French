@@ -1,0 +1,15 @@
+#### Common Adjectives
+
+- **grand** / **grande** (big, tall)
+- **petit** / **petite** (small, little)
+- **bon** / **bonne** (good)
+- **mauvais** / **mauvaise** (bad)
+- **beau** / **belle** (beautiful, handsome)
+- **nouveau** / **nouvelle** (new)
+- **vieux** / **vieille** (old)
+- **jeune** (young)
+- **content** / **contente** (happy)
+- **triste** (sad)
+- **fatigué** / **fatiguée** (tired)
+- **facile** (easy)
+- **difficile** (difficult)

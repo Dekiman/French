@@ -1,0 +1,17 @@
+#### Common Nouns
+
+- **l'homme** (man)
+- **la femme** (woman)
+- **l'enfant** (child)
+- **le garçon** (boy)
+- **la fille** (girl)
+- **la maison** (house)
+- **l'école** (school)
+- **le livre** (book)
+- **la voiture** (car)
+- **le chien** (dog)
+- **le chat** (cat)
+- **le temps** (time, weather)
+- **la chose** (thing)
+- **le jour** (day)
+- **la nuit** (night)

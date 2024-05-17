@@ -1,0 +1,17 @@
+#### Common Verbs
+
+- **être** (to be)
+- **avoir** (to have)
+- **faire** (to do, to make)
+- **aller** (to go)
+- **venir** (to come)
+- **pouvoir** (to be able to, can)
+- **vouloir** (to want)
+- **devoir** (to have to, must)
+- **savoir** (to know)
+- **dire** (to say, to tell)
+- **voir** (to see)
+- **manger** (to eat)
+- **prendre** (to take)
+- **parler** (to speak)
+- **aimer** (to love, to like)
